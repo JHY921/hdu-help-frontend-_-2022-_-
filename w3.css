@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+body{
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background:  #fdfcf8;
+}
+div{
+    display:block;
+}
+#wrapper{
+    margin: 0 auto;
+    padding: 0;
+    border: 0;
+    width: 75%;
+    text-align: left;
+}
+#header{
+    margin: 0 0 0 12px;
+    padding: 0;
+    border: 0;
+    width: 1250px;
+    height: 100px;
+    background-color: #fdfcf8;
+}
+
+#p1{
+    color:red
+}
+#search{
+    margin: 0 0 0 0;
+    float:right;
+}
+#inputBox{
+    width：30px;
+    background-color: rgb(245, 99, 99);
+    float:right;
+}
+#first{
+    background-color: #E8E7E3;
+}
+ul{
+    display: block;
+    list-style:none;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+#navfirst {
+    height: 48px;
+    width: 1250px;
+    margin: 0 0 0 12px;
+    padding: 0;
+    border: 0;
+    background: #E8E7E3;
+}
+
+#h{
+    width: 166px;
+    left: 0px;
+    display: inline-block;
+    float:left;
+
+}
+#b{
+    width: 191px;
+    left: 166px;
+    display: inline-block;
+    float:left;
+}
+#s{
+    width: 175px;
+    left: 357px;
+    display: inline-block;
+    float:left;
+}
+#p{
+    width: 198px;
+    left: 532px;
+    display: inline-block;
+    float:left;
+}
+#x{
+    width: 113px;
+    left: 730px;
+    display: inline-block;
+    float:left;
+}
+#w{
+    width: 197px;
+    left: 843px;
+    display: inline-block;
+    float:left;
+}
+#r{
+    width: 170px;
+    left: 1040px;
+    display: inline-block;
+    float:left;
+}
+#navsecond {
+    float: left;
+    margin: 0 0 0 6px;
+    padding: 0;
+    border: 0;
+    width: 180px;
+    background: transparent;
+    border-left: 1px solid #aaa;
+    border-right: 1px solid #aaa;
+    font-size: 14px;
+}
+#maincontent {
+    float: left;
+    margin: 0;
+    padding: 30px 0 0 0;
+    border: 0;
+    width: 850px;
+}
+.idea {
+    margin: 0 0 0 25px;
+    padding: 30px 0 32px 0;
+    border: 0;
+    min-height: 118px;
+    border-bottom: 1px solid #aaa;
+}
+#sidebar{
+    float: left;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    width: 180px;
+    background: transparent;
+    border-left: 1px solid #aaa;
+    border-right: 1px solid #aaa;
+    font-size: 14px;
+}
+#footer{
+    clear: both;
+    margin: 0;
+    padding-top: 16px;
+    padding-bottom: 20px;
+    margin-left: 12px;
+    width: 1210px;
+    line-height: 24px;
+    background: #f0f0f0;
+    border-top: 0px solid #fff;
+}
